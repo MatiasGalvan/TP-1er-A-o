@@ -1,0 +1,982 @@
+# depslib dependency file v1.0
+1571355944 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571356964 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1571437274 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final\nodousuario.h
+
+1571434090 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571434090 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final\persistencia.h
+
+1571607204 source:g:\ejercicios\tp final 18-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+
+1571488264 g:\ejercicios\tp final 18-10\login.h
+	"nodoUsuario.h"
+
+1571608689 g:\ejercicios\tp final 18-10\nodousuario.h
+
+1571609630 source:g:\ejercicios\tp final 18-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571608151 source:g:\ejercicios\tp final 18-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1571609602 source:g:\ejercicios\tp final 18-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571609674 g:\ejercicios\tp final 18-10\persistencia.h
+	"login.h"
+
+1571770129 source:g:\ejercicios\tp final 20-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+
+1571488264 g:\ejercicios\tp final 20-10\login.h
+	"nodoUsuario.h"
+
+1571769819 g:\ejercicios\tp final 20-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1571770249 source:g:\ejercicios\tp final 20-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571770526 g:\ejercicios\tp final 20-10\persistencia.h
+	"login.h"
+
+1571769875 source:g:\ejercicios\tp final 20-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1571770227 source:g:\ejercicios\tp final 20-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571750178 source:g:\ejercicios\tp final 20-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1571750178 g:\ejercicios\tp final 20-10\nodopersonaje.h
+
+1571769628 g:\ejercicios\tp final 20-10\personaje.h
+	"nodoPersonaje.h"
+
+1571769722 source:g:\ejercicios\tp final 20-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+
+1571952167 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+
+1571877278 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\login.h
+	"nodoUsuario.h"
+
+1571756914 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1571952992 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\nodopersonaje.h
+
+1571952167 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571756918 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\persistencia.h
+	"login.h"
+
+1571756906 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1571875951 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1571875702 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571756908 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+
+1571756908 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 20-10\personaje.h
+	"nodoPersonaje.h"
+
+1571957108 source:c:\users\claudio\desktop\tp final 24-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571938636 c:\users\claudio\desktop\tp final 24-10\persistencia.h
+	"login.h"
+
+1571938636 c:\users\claudio\desktop\tp final 24-10\login.h
+	"nodoUsuario.h"
+
+1571938636 c:\users\claudio\desktop\tp final 24-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1571938636 c:\users\claudio\desktop\tp final 24-10\nodopersonaje.h
+
+1571958890 source:c:\users\claudio\desktop\tp final 24-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1571938636 source:c:\users\claudio\desktop\tp final 24-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1571957108 source:c:\users\claudio\desktop\tp final 24-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1571959274 source:c:\users\claudio\desktop\tp final 24-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+
+1571957389 c:\users\claudio\desktop\tp final 24-10\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1571960026 source:c:\users\claudio\desktop\tp final 24-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+
+1571962584 source:c:\users\claudio\desktop\tp final 24-10\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1571947806 source:c:\users\claudio\desktop\tp final 24-10\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+	"persistencia.h"
+
+1571947806 c:\users\claudio\desktop\tp final 24-10\admin.h
+
+1571962621 c:\users\claudio\desktop\tp final 24-10\nodoarbolzona.h
+
+1571947806 source:c:\users\claudio\desktop\tp final 24-10\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1571947806 c:\users\claudio\desktop\tp final 24-10\nodoenemigo.h
+
+1572043648 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+
+1572040668 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572043252 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1572040829 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1571948536 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1571948534 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodopersonaje.h
+
+1572041318 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+
+1571948536 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1572040840 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572042581 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1572038674 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1571948532 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1571948530 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodoenemigo.h
+
+1572041119 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1571948536 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572043384 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572038209 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 24-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+
+1572220774 source:g:\ejercicios\tp final 25-10\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+
+1572221266 g:\ejercicios\tp final 25-10\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572217800 g:\ejercicios\tp final 25-10\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1572221512 g:\ejercicios\tp final 25-10\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572029728 g:\ejercicios\tp final 25-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1572211876 g:\ejercicios\tp final 25-10\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572213257 g:\ejercicios\tp final 25-10\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1572029722 g:\ejercicios\tp final 25-10\nodoenemigo.h
+
+1572221526 source:g:\ejercicios\tp final 25-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+
+1572219739 g:\ejercicios\tp final 25-10\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1572222339 source:g:\ejercicios\tp final 25-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572214999 source:g:\ejercicios\tp final 25-10\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1572210881 source:g:\ejercicios\tp final 25-10\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1572029726 source:g:\ejercicios\tp final 25-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1572215654 source:g:\ejercicios\tp final 25-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572223089 source:g:\ejercicios\tp final 25-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+
+1572220515 source:g:\ejercicios\tp final 25-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572223774 source:g:\ejercicios\tp final 25-10\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+
+1572223103 g:\ejercicios\tp final 25-10\jugar.h
+
+1572633921 source:g:\ejercicios\tp final 31-10\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+
+1572554490 g:\ejercicios\tp final 31-10\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572554494 g:\ejercicios\tp final 31-10\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1572554490 g:\ejercicios\tp final 31-10\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572554494 g:\ejercicios\tp final 31-10\nodousuario.h
+	"nodoPersonaje.h"
+
+1572632657 g:\ejercicios\tp final 31-10\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572633921 g:\ejercicios\tp final 31-10\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1572632728 g:\ejercicios\tp final 31-10\nodoenemigo.h
+
+1572554490 source:g:\ejercicios\tp final 31-10\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+
+1572554494 g:\ejercicios\tp final 31-10\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1572554490 source:g:\ejercicios\tp final 31-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572633190 source:g:\ejercicios\tp final 31-10\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1572632728 source:g:\ejercicios\tp final 31-10\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1572632657 source:g:\ejercicios\tp final 31-10\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1572554494 source:g:\ejercicios\tp final 31-10\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572554494 source:g:\ejercicios\tp final 31-10\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572627297 source:g:\ejercicios\tp final 31-10\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+
+1572629750 source:g:\ejercicios\tp final 31-10\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"nodoArbolZona.h"
+	"jugar.h"
+
+1572629774 g:\ejercicios\tp final 31-10\jugar.h
+
+1572620014 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"nodoArbolZona.h"
+	"jugar.h"
+
+1572620020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1572620020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572620014 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1572620018 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodoenemigo.h
+
+1572620020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodousuario.h
+	"nodoPersonaje.h"
+
+1572620020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1572620016 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572620014 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\jugar.h
+
+1572620014 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+
+1572648529 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572620014 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572620012 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1572620016 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1572620018 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1572620020 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572620020 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572620018 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+
+1572648948 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+
+1572829064 source:g:\ejercicios\tp final 01-11 matias\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+
+1572634834 g:\ejercicios\tp final 01-11 matias\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572634838 g:\ejercicios\tp final 01-11 matias\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1572634834 g:\ejercicios\tp final 01-11 matias\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572824820 g:\ejercicios\tp final 01-11 matias\nodousuario.h
+	"nodoPersonaje.h"
+
+1572825614 g:\ejercicios\tp final 01-11 matias\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572634832 g:\ejercicios\tp final 01-11 matias\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1572634836 g:\ejercicios\tp final 01-11 matias\nodoenemigo.h
+
+1572634834 source:g:\ejercicios\tp final 01-11 matias\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"nodoArbolZona.h"
+	"jugar.h"
+
+1572634838 g:\ejercicios\tp final 01-11 matias\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1572634834 g:\ejercicios\tp final 01-11 matias\jugar.h
+
+1572824930 source:g:\ejercicios\tp final 01-11 matias\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+
+1572634834 source:g:\ejercicios\tp final 01-11 matias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572830884 source:g:\ejercicios\tp final 01-11 matias\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1572634836 source:g:\ejercicios\tp final 01-11 matias\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1572826295 source:g:\ejercicios\tp final 01-11 matias\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+
+1572826421 source:g:\ejercicios\tp final 01-11 matias\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572634838 source:g:\ejercicios\tp final 01-11 matias\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572826470 source:g:\ejercicios\tp final 01-11 matias\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+
+1573169299 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+	"color.h"
+
+1572812980 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572813016 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1573165537 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572813012 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodousuario.h
+	"nodoPersonaje.h"
+
+1572813006 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572812998 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1573161479 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodoenemigo.h
+
+1573165254 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"nodoArbolZona.h"
+	"jugar.h"
+	"color.h"
+
+1572813020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1573162154 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\jugar.h
+
+1573167514 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+	"color.h"
+
+1573165537 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572812996 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1573161479 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1573167175 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+	"color.h"
+
+1572813010 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572813014 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1573166916 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+	"color.h"
+
+1573165537 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\color.c
+	"color.h"
+
+1573069608 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 01-11 matias\color.h
+	"windows.h"
+
+1573169299 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+	"color.h"
+
+1572812980 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1572813016 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1573165537 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1572813012 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodousuario.h
+	"nodoPersonaje.h"
+
+1572813006 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1572812998 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1573161479 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodoenemigo.h
+
+1573069608 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\color.h
+	"windows.h"
+
+1573165537 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\color.c
+	"color.h"
+
+1573167514 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+	"color.h"
+
+1572813020 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1573165537 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1572812996 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1573161479 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1573167175 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+	"color.h"
+
+1572813010 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1572813014 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1573166916 source:c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+	"color.h"
+
+1573162154 c:\users\guia\desktop\tsp\programacion ii\ejercicios\tp final 08-11\jugar.h
+
+1573853715 source:c:\users\claudio\desktop\tp final 08-11\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"admin.h"
+	"color.h"
+
+1573294756 c:\users\claudio\desktop\tp final 08-11\admin.h
+	"persistencia.h"
+	"nodoArbolZona.h"
+
+1573294760 c:\users\claudio\desktop\tp final 08-11\persistencia.h
+	"login.h"
+	"nodoArbolZona.h"
+
+1573294754 c:\users\claudio\desktop\tp final 08-11\login.h
+	"nodoUsuario.h"
+	"nodoArbolZona.h"
+
+1573294760 c:\users\claudio\desktop\tp final 08-11\nodousuario.h
+	"nodoPersonaje.h"
+
+1573294760 c:\users\claudio\desktop\tp final 08-11\nodopersonaje.h
+	"nodoArbolZona.h"
+
+1573853924 c:\users\claudio\desktop\tp final 08-11\nodoarbolzona.h
+	"nodoEnemigo.h"
+
+1573853924 c:\users\claudio\desktop\tp final 08-11\nodoenemigo.h
+
+1573294756 c:\users\claudio\desktop\tp final 08-11\color.h
+	"windows.h"
+
+1573294756 source:c:\users\claudio\desktop\tp final 08-11\color.c
+	"color.h"
+
+1573856230 source:c:\users\claudio\desktop\tp final 08-11\jugar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"nodoArbolZona.h"
+	"jugar.h"
+	"color.h"
+
+1573294762 c:\users\claudio\desktop\tp final 08-11\personaje.h
+	"nodoPersonaje.h"
+	"nodoUsuario.h"
+
+1573294756 c:\users\claudio\desktop\tp final 08-11\jugar.h
+
+1573777135 source:c:\users\claudio\desktop\tp final 08-11\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"login.h"
+	"personaje.h"
+	"persistencia.h"
+	"admin.h"
+	"color.h"
+
+1573852960 source:c:\users\claudio\desktop\tp final 08-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1573294758 source:c:\users\claudio\desktop\tp final 08-11\nodoarbolzona.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoArbolZona.h"
+
+1573294760 source:c:\users\claudio\desktop\tp final 08-11\nodoenemigo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoEnemigo.h"
+
+1573294760 source:c:\users\claudio\desktop\tp final 08-11\nodopersonaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoPersonaje.h"
+	"color.h"
+
+1573294760 source:c:\users\claudio\desktop\tp final 08-11\nodousuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoUsuario.h"
+
+1573294758 source:c:\users\claudio\desktop\tp final 08-11\persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	"persistencia.h"
+
+1573853120 source:c:\users\claudio\desktop\tp final 08-11\personaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personaje.h"
+	"persistencia.h"
+	"jugar.h"
+	"color.h"
+
